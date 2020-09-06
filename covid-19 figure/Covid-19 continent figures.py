@@ -48,7 +48,7 @@ fig.suptitle('COVID-19 Regions comparison (2020/08)');
 # In[240]:
 
 
-fig.savefig('covid-19.png')
+fig.savefig('covid-19 comparisons.png')
 
 
 # In[212]:
